@@ -1,0 +1,1 @@
+python "D:\Обучение в МИРЭА\3 семестр\КонфигурУправ\main.py" --user "Ivan" --computer "PC" --zip_path "C:\Users\Юрий\virtual_fs.zip" --log_path "C:\Users\Юрий\log.json" --script_path "C:\Users\Юрий\script.txt"
